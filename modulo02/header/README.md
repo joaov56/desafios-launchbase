@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
     <img src="https://ik.imagekit.io/r6ttxxmdjw/logo_9y6rLuDJG.png">
 </h1>
 
