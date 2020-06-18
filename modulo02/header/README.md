@@ -6,9 +6,13 @@
     Desafio Módulo 2.1
 </h1>
 
+## Desafio
+
 <p>
     Criar um arquivo html que contenha um favicon e um header com 3 links: Comunidade, Email e Telefone.
 </p>
+
+# Resultados
 
 <p>
     <img src="https://ik.imagekit.io/r6ttxxmdjw/modulo2_lH6CgtJnW.png">
